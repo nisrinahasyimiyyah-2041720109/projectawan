@@ -7,10 +7,10 @@
            <div class="row">
                <div class="col-md-12">
                    <div class="caption">
-                       <h2>Selamat Datang Di Toko Pixie Furniture</h2>
+                       <h2>Selamat Datang Di Toko VegeFruit</h2>
                        <div class="line-dec"></div>
-                       <p>Pixie Furniture menyediakan berbagai macam bentuk barang
-                           <br><br>Silahkan kunjungi social media <a rel="nofollow" href="https://www.facebook.com/tooplate/">Pixie</a> untuk mendapatkan info terbaru.
+                       <p>VegeFruit menyediakan berbagai macam buah dan sayur
+                           <br><br>Silahkan kunjungi social media <a rel="nofollow" href="https://www.facebook.com/tooplate/">VegeFruit</a> untuk mendapatkan info terbaru.
                        </p>
                        @auth
                             <div class="main-button">

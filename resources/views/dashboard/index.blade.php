@@ -14,7 +14,7 @@
     }
 
     body {
-        background-image: url("assets/img/biru.jpg");
+        background-image: url("assets/img/buahbuahan.jpg");
         background-repeat: no-repeat;
         background-size: 100%;
     }
@@ -23,7 +23,7 @@
 
 <body>
 
-    <h2>Selamat Datang Di Pixie Furniture</h2>
+    <h2>Selamat Datang Di VegeFruit</h2>
 
 </body>
 @endsection

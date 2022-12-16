@@ -38,7 +38,7 @@
     <!--Tooplate 2114 Pixiehttps://www.tooplate.com/view/2114-pixie-->
     <style>
         body {
-            background-image: url("assets/img/biru.jpg");
+            background-image: url("assets/img/buahbuahan.jpg");
             background-size: 100%;
             background-repeat: no-repeat;
             background-attachment: fixed;
