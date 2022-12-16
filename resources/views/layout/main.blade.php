@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
 
-    <title>Pixie Furniture</title>
+    <title>VegeFruit</title>
 
     <!-- Bootstrap core CSS -->
     <!-- CSS only -->
