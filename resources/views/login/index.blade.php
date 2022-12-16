@@ -69,7 +69,7 @@
 
             </div>
             <div class="col-sm-6 px-0 d-none d-sm-block">
-                <img src="https://ofisu.co.th/wp-content/uploads/2021/01/modern-living-room-interior-with-sofa-green-plants-lamp-table-dark-wall-background-scaled.jpg" alt="Login image" class="w-100 vh-100" style="object-fit: cover; object-position: right;">
+                <img src="https://dinkes.malangkota.go.id/wp-content/uploads/sites/104/2016/08/sayur-dan-buah.jpg" alt="Login image" class="w-100 vh-100" style="object-fit: cover; object-position: right;">
             </div>
         </div>
     </div>
