@@ -9,7 +9,7 @@
                    <div class="caption">
                        <h2>Selamat Datang Di Toko VegeFruit</h2>
                        <div class="line-dec"></div>
-                       <p>VegeFruit menyediakan berbagai macam buah dan sayur
+                       <p>VegeFruit menyediakan berbagai macam buah dan sayur lokal yang segar
                            <br><br>Silahkan kunjungi social media <a rel="nofollow" href="https://www.facebook.com/tooplate/">VegeFruit</a> untuk mendapatkan info terbaru.
                        </p>
                        @auth
